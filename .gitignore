@@ -1,0 +1,13 @@
+__pycache__/
+*.pt
+*.onnx
+*.engine
+runs/
+build/
+*.mp4
+*.jpg
+*.png
+*.wav
+.idea/
+.vscode/
+*.pyc
